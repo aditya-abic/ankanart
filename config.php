@@ -5,7 +5,7 @@ $vjconfig = array();
 $vjconfig['baseurl'] = 'https://boomerangtrip.com/';
 $vjconfig['fwbaseurl'] = $vjconfig['baseurl'] .'controlarea/';
 
-$vjconfig['sitename'] = "Exam-N-Review Control Panel";
+$vjconfig['sitename'] = "Ankanart Control Panel";
 $vjconfig['timezone'] = "Asia/Kolkata";
 
 $vjconfig['mysql']['host'] = "localhost";
@@ -32,18 +32,18 @@ $vjconfig['defaultlang'] = 'en_us';
 
 $vjconfig['adminemail'][] = "vj.alternativ@gmail.com";
 
-$vjconfig['sitetpl'] = "enr";
+$vjconfig['sitetpl'] = "site";
 
 
 
 if($_SERVER['HTTP_HOST']=="localhost") {
     
-    $vjconfig['baseurl'] = 'http://localhost/examnreview/';
+    $vjconfig['baseurl'] = 'http://localhost/ankanart/';
     $vjconfig['fwbaseurl'] = $vjconfig['baseurl'] .'controlarea/';
     
     $vjconfig['mysql']['user'] = "root";
     $vjconfig['mysql']['password'] = "root";
-    $vjconfig['mysql']['database'] = "examprod";
+    $vjconfig['mysql']['database'] = "ankanart";
     $vjconfig['display_errors'] = true;
     
 }
