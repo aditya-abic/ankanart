@@ -34,12 +34,12 @@
                            <div class="widget">
                               <h3 class="wg-title">Gallery</h3>
                               <div class="row wg-flicker">
-                                 <div class="col-xs-4"><a class="img-zoom-hover" href="#"><img src="images/blog/flickr1.jpg" alt="flickr"></a></div>
-                                 <div class="col-xs-4"><a class="img-zoom-hover" href="#"><img src="images/blog/flickr2.jpg" alt="flickr"></a></div>
-                                 <div class="col-xs-4"><a class="img-zoom-hover" href="#"><img src="images/blog/flickr3.jpg" alt="flickr"></a></div>
-                                 <div class="col-xs-4"><a class="img-zoom-hover" href="#"><img src="images/blog/flickr4.jpg" alt="flickr"></a></div>
-                                 <div class="col-xs-4"><a class="img-zoom-hover" href="#"><img src="images/blog/flickr5.jpg" alt="flickr"></a></div>
-                                 <div class="col-xs-4"><a class="img-zoom-hover" href="#"><img src="images/blog/flickr6.jpg" alt="flickr"></a></div>
+                                 <div class="col-xs-4"><a class="img-zoom-hover" href="#"><img src="assets/site/images/blog/flickr1.jpg" alt="flickr"></a></div>
+                                 <div class="col-xs-4"><a class="img-zoom-hover" href="#"><img src="assets/site/images/blog/flickr2.jpg" alt="flickr"></a></div>
+                                 <div class="col-xs-4"><a class="img-zoom-hover" href="#"><img src="assets/site/images/blog/flickr3.jpg" alt="flickr"></a></div>
+                                 <div class="col-xs-4"><a class="img-zoom-hover" href="#"><img src="assets/site/images/blog/flickr4.jpg" alt="flickr"></a></div>
+                                 <div class="col-xs-4"><a class="img-zoom-hover" href="#"><img src="assets/site/images/blog/flickr5.jpg" alt="flickr"></a></div>
+                                 <div class="col-xs-4"><a class="img-zoom-hover" href="#"><img src="assets/site/images/blog/flickr6.jpg" alt="flickr"></a></div>
                               </div>
                            </div> <!-- widget -->
                         </div>
