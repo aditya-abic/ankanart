@@ -21,12 +21,12 @@
                            <div class="widget">
                               <h3 class="wg-title">Quick Links</h3>
                               <ul>
-							  <li><a href="index.html">Home</a></li>
-							  <li><a href="about.html">About</a></li>
-							  <li><a href="event.html">Event</a></li>
-							  <li><a href="media.html">Media</a></li>
-							  <li><a href="gallery.html">Gallery</a></li>
-							  <li><a href="contact.html">Contact Us</a></li>
+							  <li><a href="{$baseurl}home">Home</a></li>
+							  <li><a href="{$baseurl}about">About</a></li>
+							  <li><a href="{$baseurl}event">Event</a></li>
+							  <li><a href="{$baseurl}media">Media</a></li>
+							  <li><a href="{$baseurl}gallery">Gallery</a></li>
+							  <li><a href="{$baseurl}contact">Contact Us</a></li>
                              </ul>
                            </div> <!-- widget -->
                         </div>

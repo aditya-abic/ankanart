@@ -54,13 +54,13 @@
                            <nav>
                               <ul class="top-main-menu mtmenu">
                                  <li class="menu-item-has-children">
-                                    <a href="index.html">Home</a>
+                                    <a href="{$baseurl}home">Home</a>
                                  </li>
 								 <li class="menu-item-has-children">
-                                    <a href="about.html">About</a>
+                                    <a href="{$baseurl}about">About</a>
                                  </li>
 								 <li class="menu-item-has-children">
-                                    <a href="event.html">Event</a>
+                                    <a href="{$baseurl}event">Event</a>
                                  </li>
 								 <!-- <li class="menu-item-has-children">
                                     <a href="images/gallery/list.pdf">Registration</a>
@@ -69,9 +69,9 @@
                                     <a href="biennale.html">Biennale</a>
                                  </li> -->
                                  
-                                 <li><a href="media.html">Media</a></li>
-								 <li><a href="gallery.html">Gallery</a></li>
-                                 <li><a href="contact.html">Contact Us</a></li>
+                                 <li><a href="{$baseurl}media">Media</a></li>
+								 <li><a href="{$baseurl}gallery">Gallery</a></li>
+                                 <li><a href="{$baseurl}contact">Contact Us</a></li>
 								<!--  <li><a href="images/gallery/jury.pdf" target="_blank"><img src="images/list2.png"/></a></li> -->
                               </ul> <!-- top-main-menu -->
                            </nav>
