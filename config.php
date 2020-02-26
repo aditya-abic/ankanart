@@ -22,7 +22,7 @@ $vjconfig['framework']['default_action'] = "login";
 
 $vjconfig['framework']['default_mode'] = "entryPoint";
 $vjconfig['framework']['default_entrypoint'] = "site";
-
+ 
 $vjconfig['framework']['after_login_module'] = "user";
 $vjconfig['framework']['after_login_action'] = "home";
 
